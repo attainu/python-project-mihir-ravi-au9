@@ -3,6 +3,7 @@
 * This game is developed using turtle.
 -------------
 Requirements:
+---------
     * Python 3.x
     * Turtle
 --------------
