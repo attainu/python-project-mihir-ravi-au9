@@ -1,4 +1,6 @@
-
+# 2 player chess
+# Author: Mihir Ravi
+##########################################################
 
 class Chess:
     SQUARE_SIZE = 40
